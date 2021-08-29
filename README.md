@@ -1,0 +1,1 @@
+This storage area contains the data structures course homework that I did in the 2nd year of Hacettepe University Computer Engineering Undergraduate Program. C was used as the language and Dev C++ was used as the compiler. As of the Homeworks in general, it takes a text input as an argument. You can get the details by examining the codes.
